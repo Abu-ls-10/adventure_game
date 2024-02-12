@@ -1,0 +1,6 @@
+1
+Escape room
+You are standing at the end of a road before a small brick building.  A small stream flows out of the building and down a gully to the south.  A road runs up a small hill to the west.
+-----
+PORTAL / (0,7) / KEY
+

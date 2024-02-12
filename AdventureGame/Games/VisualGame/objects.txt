@@ -1,0 +1,27 @@
+BIRD
+a water bird
+1
+
+CHEST
+a pirate chest
+1
+
+BOOK
+a copy of an illuminated manuscript
+1
+
+LETTER
+an letter from the Byzantine emperor 
+1
+
+LOCK
+a metal padlock
+1
+
+MAP
+a map with the routes of ancient sailors
+1
+
+KEY
+an old key
+1

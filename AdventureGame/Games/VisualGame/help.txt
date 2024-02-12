@@ -1,0 +1,20 @@
+To play this game you must move on the game board and interact with objects by pressing on keyboard commands.
+
+Collect all objects in the room to escape it!
+
+To move player:
+
+Click on Arrow Keys button to switch to W-A-S-D control scheme, and click again to switch back to Arrow Keys control scheme, based on preference.
+"W" or the "UP ARROW KEY" : moves player up.
+"A" or the "LEFT ARROW KEY" : moves player left.
+"S" or the "DOWN ARROW KEY" : moves player down.
+"D" or the "RIGHT ARROW KEY" : moves player right.
+
+To take object for inventory, PRESS "T". The player must be beside the object to take the object.
+
+For any Accessibility changes, click on the Accessibility button.
+To load game, click on load button.
+To save game, click on the save button.
+To pause game, click on the pause button.
+click on the Instructions button again to view game board.
+
