@@ -4,7 +4,7 @@
 This repository hosts the codebase for an exciting adventure game project.  
 
 ## Project Description
-Our team is dedicated to developing an immersive adventure game that captivates players with its compelling narrative and engaging gameplay. With a focus on inclusivity and accessibility, we aim to provide all players with an enjoyable gaming experience.
+The goal of this project is to develop an immersive adventure game with a focus on accessibility, aiming to provide all players with an enjoyable gaming experience.
 
 ## Features
 - Dynamic GUI simulation for immersive gameplay
