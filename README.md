@@ -20,6 +20,3 @@ The goal of this project is to develop an immersive adventure game with a focus 
 ## Acknowledgements
 Much appreciation to Saad. H, Maham. S, and Robin. X for their contributions to this project.
 
-## Note
-This repository is a work in progress, and updates will be made regularly. Your feedback is valuable to us as we continue to develop and improve our adventure game.
-
